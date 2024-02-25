@@ -1,0 +1,29 @@
+.heading-of-app {
+  text-align: center;
+  color: chocolate;
+  font-weight: bold;
+}
+
+.displaying-score {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.username-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.start-button {
+  margin-top: 20px;
+  width: 100px;
+  border-radius: 10px;
+  border-width: 0px;
+  background-color: aqua;
+  color: blueviolet;
+  height: 32px;
+}

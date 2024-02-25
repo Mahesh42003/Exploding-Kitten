@@ -1,0 +1,88 @@
+.Score-aligning {
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+
+.card-flexing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.deck-cards-styling {
+  background-color: #b2c1d9;
+  height: 400px;
+  width: 20%;
+  border-radius: 15px;
+  border: none;
+}
+
+.margin-aligning {
+  margin: 100px;
+  margin-top: 190px;
+}
+
+.play-again {
+  height: 32px;
+  width: 100px;
+  border: none;
+  background-color: darksalmon;
+  color: #ffffff;
+  border-radius: 10px;
+}
+
+.aligning-cards {
+  display: flex;
+
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.deck-cards-styling1 {
+  background-color: #b2c1d9;
+  height: 400px;
+  width: 20%;
+  border-radius: 15px;
+  border: none;
+  margin-left: 20px;
+  margin-top: 10px;
+  list-style-type: none;
+}
+
+.margin-aligning1 {
+  margin: 50px;
+  margin-top: 100px;
+}
+
+.popup-alignment {
+  text-align: center;
+}
+
+.aligning-cards1 {
+  display: flex;
+}
+
+.yesbutton {
+  margin-left: 320px;
+  background-color: blue;
+  height: 32px;
+  width: 100px;
+  border-width: 0px;
+  border-radius: 10px;
+  color: #ffffff;
+}
+
+.nobutton {
+  margin-left: 20px;
+  background-color: red;
+  height: 32px;
+  width: 100px;
+  border-width: 0px;
+  border-radius: 10px;
+  color: #ffffff;
+}
+
+.margining {
+  margin-left: 1000px;
+  margin-top: 50px;
+}
